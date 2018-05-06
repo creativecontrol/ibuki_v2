@@ -3,9 +3,9 @@ raspberry pi based ibuki laser harp system
 
 # Ibuki 2 - Electric Boogaloo
 ----
-...This is an update to the Ibuki Laser Harp system. This moves the sensor system from a Teensy/Arduino platform to a Raspberry Pi 3 platform to improve the troubleshooting and update capability of the platform for long term use in performance.
+This is an update to the Ibuki Laser Harp system. This moves the sensor system from a Teensy/Arduino platform to a Raspberry Pi 3 platform to improve the troubleshooting and update capability of the platform for long term use in performance.
 
-The system consists of 3 parts; 3 software elements :
+The system consists of 3 parts:
 
 1. Platform:
     - Software: This is the code that lives on each laser harp platform. This usually takes the form of one Raspberry Pi 3 with 8 sensors. The sensor information is transmitted in an OSC format. A static platform may use a wired network connection. A moveable platform may use use an XBee radio to talk back to the synthesizer software. The platform may or may not have MIDI controllable lighting built in.
