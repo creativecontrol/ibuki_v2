@@ -1,0 +1,2 @@
+PYTHONPATH=$PYTHONPATH:$HOME/ibuki/
+export IBUKI=/ibuki

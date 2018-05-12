@@ -1,0 +1,10 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red-contrib-bigssh": "~1.2.2",
+    "node-red-contrib-osc": "~1.0.0",
+    "node-red-dashboard": "~2.4.3"
+  }
+}

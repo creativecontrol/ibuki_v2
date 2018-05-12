@@ -1,0 +1,4 @@
+configparser==3.5.0
+mido==1.2.8
+numpy==1.14.2
+pyOSC==0.3.5b5294
