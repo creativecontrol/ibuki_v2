@@ -1,5 +1,11 @@
 # ibuki_v2
 raspberry pi based ibuki laser harp system
+May 12, 2018 - This project is incomplete.
+
+Todo:
+- finalize installation scripts for each computer
+- add hardware lists for each system parts
+- add hardware designs for custom PCBs
 
 # Ibuki 2 - Electric Boogaloo
 ----
